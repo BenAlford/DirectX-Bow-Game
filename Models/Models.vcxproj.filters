@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Text Include="shell.txt">
+      <Filter>VBFileModels</Filter>
+    </Text>
+    <Text Include="cube.txt">
+      <Filter>VBFileModels</Filter>
+    </Text>
+    <Text Include="terrainTex.txt">
+      <Filter>VBFileModels</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="VBFileModels">
+      <UniqueIdentifier>{6697cb77-25ae-4be6-b1c9-f44a6aef5e66}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <MeshContentTask Include="Vase\JEMINA vase -up.fbx" />
+    <MeshContentTask Include="Table\table.FBX" />
+    <MeshContentTask Include="Bird\BirdModelV1.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Desktop\ball.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\arrow.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\target.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\target2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\target3.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\blackhole4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\physicsCube2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\blackholefinal.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\ground.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\button.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\button2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\button3.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\button4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\spinner.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\spinner2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Crate.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Crate_2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Terrain.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Crate_3.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Crate_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Floor_Terrain.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Floor_Terrain_2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\New_-_Black_Hole_2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\New_Black_Hole_3.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Floor_Terrain_3.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Target_3.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Target_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Target_5.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Wall_Terrain.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Button_2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\arrowfinal.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\arrowfinal2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\arrowfinal3.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Uncollidable2_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Base_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Floor_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Handle_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Hook_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Uncollidable1_4.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Handle_5.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Floor_5.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Base_5.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Hook_5.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Uncollidable1_5.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Uncollidable2_5.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\spring.fbx" />
+    <MeshContentTask Include="C:\Users\benja\OneDrive\Documents\spring2.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Terrain_Fence_Back.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Terrain_Fence_Left.fbx" />
+    <MeshContentTask Include="C:\Users\benja\Downloads\Terrain_Fence_Right.fbx" />
+  </ItemGroup>
+</Project>
